@@ -49,7 +49,8 @@ namespace Sem5{
         }
 
         public static int Main(string[] args){
-            Task43();
+            //Task41();
+            //Task43();
             return 1;
         }
     }
